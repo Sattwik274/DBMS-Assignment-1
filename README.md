@@ -1,2 +1,2 @@
-# DBMS Assignment-1
+# DBMS Assignments
 practical works of DBMS
